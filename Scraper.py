@@ -42,7 +42,7 @@ def loadBanner():
     print(Fore.MAGENTA + pyfiglet.figlet_format('Group Scraper', 'slant'))
 
 def start():
-    Delay = input('Delay every scrape [INT]> ')
+    Delay = input('Delay every scrape [FLOAT]> ')
     Start = input('Start scraping at [INT]> ')
     End = input('End scraping at [INT]> ')
     os.system('cls')
