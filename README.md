@@ -1,6 +1,6 @@
 # ROBLOX-Group-Scraper
 
-A basic python script that looks for empty and joinable ROBLOX groups.
+A basic python script that looks for empty and joinable ROBLOX groups in a range.
 
 Heavily inspired by h0nda1337's group scraper.
 
