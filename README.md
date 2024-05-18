@@ -18,6 +18,7 @@ Once it finds an ownerless and joinable group, it will open your browser with th
 
 ## Plans 
 - Adding an option to choose a completely random number instead of looking through a range for groups IDs (this might require this entire project to be rewritten)
+- Make using proxies easier
 
 ## Usage
 To use this, you need the following packages
@@ -29,7 +30,7 @@ If you want to use proxies, edit the ProxiesList.txt file and type in your proxi
 
 ![Screenshot 2024-05-18 115332](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c08bb99-e041-450d-840f-cbc7f22e1e2c)
 
-Then, use the comment instead of requests.get()
+Then, use the comment next to the Group information variable instead of requests.get()
 
 ![Screenshot 2024-05-18 115540](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c6f39ef-1e46-4d87-b4f0-0b0a5706bb52)
 
