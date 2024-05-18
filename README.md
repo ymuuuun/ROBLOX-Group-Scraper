@@ -25,7 +25,8 @@ To use this, you need the following packages
 - winotify https://pypi.org/project/winotify/
 - pyfiglet https://pypi.org/project/pyfiglet/
 
-If you want to use proxies, edit the ProxiesList.txt file and import your proxies a list
+If you want to use proxies, edit the ProxiesList.txt file and type in your proxies as a list
+
 ![Screenshot 2024-05-18 115332](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c08bb99-e041-450d-840f-cbc7f22e1e2c)
 
 ## Screenshots (more are coming dw)
