@@ -29,5 +29,10 @@ If you want to use proxies, edit the ProxiesList.txt file and type in your proxi
 
 ![Screenshot 2024-05-18 115332](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c08bb99-e041-450d-840f-cbc7f22e1e2c)
 
+Then, use the comment instead of requests.get()
+
+![Screenshot 2024-05-18 115540](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c6f39ef-1e46-4d87-b4f0-0b0a5706bb52)
+
+
 ## Screenshots (more are coming dw)
 ![Screenshot 2024-05-18 112753](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/424f554d-1ef0-4878-b2a6-e94783169929)
