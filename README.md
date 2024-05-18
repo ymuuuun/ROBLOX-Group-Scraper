@@ -20,7 +20,7 @@ Once it finds an ownerless and joinable group, it will open your browser with th
 
 ## Usage
 To use this, you need the following packages
-- Colorama https://pypi.org/project/colorama/
+- colorama https://pypi.org/project/colorama/
 - winotify https://pypi.org/project/winotify/
 - pyfiglet https://pypi.org/project/pyfiglet/
 
