@@ -1,10 +1,15 @@
 # ROBLOX-Group-Scraper
+
 A basic python script that looks for empty and joinable ROBLOX groups.
+
 Heavily inspired by h0nda1337's group scraper.
+
 This is entirely open-source, contributions are highly appreciated to make this run at its best.
 
-# Things you can currently do
+## Things you can currently do
+
 You can set the ID for when to start and when to end.
+
 You can use proxies (For preventing request blocks)
 
 # Screenshots
