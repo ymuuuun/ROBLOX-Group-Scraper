@@ -45,6 +45,7 @@ def start():
     Delay = input('Delay every scrape [INT]> ')
     Start = input('Start scraping at [INT]> ')
     End = input('End scraping at [INT]> ')
+    os.system('cls')
     startScraping(int(Start), int(End), float(Delay))
 
 if __name__ == '__main__':
