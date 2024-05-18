@@ -1,6 +1,6 @@
 # ROBLOX-Group-Scraper
 
-A basic python script that looks for ownerless and joinable ROBLOX groups in a range.
+A basic python program that looks for ownerless and joinable ROBLOX groups in a range.
 
 Heavily inspired by TechTator's group scraper, check it out! 
 https://github.com/TechTator/roblox-group-scraper
@@ -17,6 +17,7 @@ This is entirely open-source, contributions are highly appreciated to make this 
 ## Plans 
 - Adding an option to choose a completely random number instead of looking through a range for groups IDs (this might require this entire project to be rewritten)
 - Make using proxies easier
+- Reducing the amount of packages required to use the program
 
 ## Usage
 To use this, you need the following packages
