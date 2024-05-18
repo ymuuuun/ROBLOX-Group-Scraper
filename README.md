@@ -11,7 +11,7 @@ This is entirely open-source, contributions are highly appreciated to make this 
 - Once it finds an ownerless and joinable group, it will print the groups information in green text, and open your browser with the groups url
 
 ## Things you can currently do
-- You can set the ID for when to start and when to end.
+- You can set the ID for when to start and when to end the search.
 - You can use proxies (For preventing request blocks)
 
 ## Plans 
@@ -28,7 +28,7 @@ If you want to use proxies, edit the ProxiesList.txt file and type in your proxi
 
 ![Screenshot 2024-05-18 115332](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c08bb99-e041-450d-840f-cbc7f22e1e2c)
 
-Then, use the comment next to the Group information variable instead of requests.get()
+Then, use the comment next to the GroupInformation variable instead of requests.get()
 
 ![Screenshot 2024-05-18 115540](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/2c6f39ef-1e46-4d87-b4f0-0b0a5706bb52)
 
