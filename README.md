@@ -7,8 +7,6 @@ https://github.com/TechTator/roblox-group-scraper
 
 This is entirely open-source, contributions are highly appreciated to make this run at its best.
 
-Once it finds an ownerless and joinable group, it will open your browser with the group url
-
 ## Output
 - Once it finds an ownerless and joinable group, it will print the groups information in green text, and open your browser with the groups url
 
