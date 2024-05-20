@@ -29,4 +29,6 @@ To use proxies, add your proxies address and port number in the Proxies.txt file
 ![example](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/a5027ffe-e724-4c8c-b0bf-a19aa5dac219)
 
 ## Screenshots (more are coming dw)
-![Screenshot 2024-05-18 112753](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/424f554d-1ef0-4878-b2a6-e94783169929)
+
+![image](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/e67b0225-25ac-425f-ad1a-ae5f446cdf51)
+
