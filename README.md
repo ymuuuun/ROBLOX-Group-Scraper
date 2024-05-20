@@ -22,7 +22,7 @@ To use this, you need the following packages
 - colorama https://pypi.org/project/colorama/
 - winotify https://pypi.org/project/winotify/
 
-To use proxies, add your proxies address and port number in the Proxies.txt file in the format below.
+To use proxies, add your proxy addresses and port numbers in the Proxies.txt file in the format below.
 
 ![example](https://github.com/ymuuuun/ROBLOX-Group-Scraper/assets/170196194/a5027ffe-e724-4c8c-b0bf-a19aa5dac219)
 
