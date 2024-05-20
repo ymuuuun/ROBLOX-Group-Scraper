@@ -13,10 +13,7 @@ This is entirely open-source, contributions are highly appreciated to make this 
 ## Things you can currently do
 - You can set the ID for when to start and when to end the search.
 - You can use proxies (For preventing request blocks)
-
-## Plans 
-- Adding an option to choose a completely random number instead of looking through a range for groups IDs (this might require this entire project to be rewritten)
-
+  
 ## Usage
 To use this, you need the following
 - python 3 https://www.python.org/
