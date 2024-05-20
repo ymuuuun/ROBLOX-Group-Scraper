@@ -18,7 +18,8 @@ This is entirely open-source, contributions are highly appreciated to make this 
 - Adding an option to choose a completely random number instead of looking through a range for groups IDs (this might require this entire project to be rewritten)
 
 ## Usage
-To use this, you need the following packages
+To use this, you need the following
+- python 3 https://www.python.org/
 - colorama https://pypi.org/project/colorama/
 - winotify https://pypi.org/project/winotify/
 
