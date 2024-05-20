@@ -12,7 +12,7 @@ def lookupGroup(groupID: str, useProxy=False) -> bool:
     else:
         json = requests.get(urlformat).json()
 
-    if json['owner'] == None and json['publicEntryAllowed']:
+    if json['owner'] == None and json['publicEntryAllowed'] and not json['isLocked']:
         return True
     else:
         return False
